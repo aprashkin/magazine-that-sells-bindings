@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="magazine/App.axaml" value="magazine/magazine.csproj" />
+        <entry key="magazine/Styles/btn-menu.axaml" value="magazine/magazine.csproj" />
+        <entry key="magazine/Styles/grad_back.axaml" value="magazine/magazine.csproj" />
+        <entry key="magazine/Views/AddProductWindow.axaml" value="magazine/magazine.csproj" />
+        <entry key="magazine/Views/MainWindow.axaml" value="magazine/magazine.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

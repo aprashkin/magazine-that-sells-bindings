@@ -1,0 +1,58 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="400" d:DesignHeight="225"
+        x:Class="magazine.Views.AddProductWindow"
+        Title="AddProductWindow"
+        Background="hsl(224, 27%, 32%)">
+    
+        <Grid
+                ShowGridLines="True"
+                ColumnDefinitions=".1* .3* .1*"
+                RowDefinitions=".1* .4* .3*">
+            
+                <TextBlock
+                        Grid.Column="1"
+                        Grid.Row="0"
+                        Foreground="hsl(224, 32%, 91%)"
+                        Text="Добавление товара"
+                        TextAlignment="Center"
+                        >
+                </TextBlock>
+                
+                <StackPanel
+                        Grid.Column="1"
+                        Grid.Row="1">
+                        <TextBox
+                                Watermark="Название:"
+                                Margin="0 0 0 5 "
+                                CornerRadius="10"
+                                Name="nm"
+                                 />
+                        <TextBox
+                                Watermark="Цена:"
+                                Margin="0 0 0 5 "
+                                CornerRadius="10"
+                                Name="pr"
+                        />
+                        <TextBox
+                                Watermark="Количество:"
+                                CornerRadius="10"
+                                Name="ct"
+                        />
+                </StackPanel>
+                
+                <Button
+                        Grid.Column="1"
+                        Grid.Row="2"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        Classes="btn-menu"
+                        Content="Добавить товар"
+                        Click="Add_product"
+                        />
+                
+                <TextBlock Grid.Column="1" Grid.Row="2" Name="Error" Foreground="Red"></TextBlock>
+        </Grid>
+</Window>
