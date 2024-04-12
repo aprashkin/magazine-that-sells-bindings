@@ -62,7 +62,7 @@ public partial class AddProductWindow : Window
         nm.Text = String.Empty;
         pr.Text = String.Empty;
         ct.Text = String.Empty;
-        this.Close();
+        Close();
         
         
         

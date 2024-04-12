@@ -7,17 +7,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06920b1f-f028-4105-847d-88cafddba788" name="Changes" comment="" />
+    <list default="true" id="06920b1f-f028-4105-847d-88cafddba788" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.magazine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.magazine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/App.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/App.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/ViewModels/MainWindowViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/ViewModels/MainWindowViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/Views/AddProductWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/Views/AddProductWindow.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/Views/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/Views/MainWindow.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/Views/MainWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/Views/MainWindow.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/bin/Debug/net8.0/magazine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/bin/Debug/net8.0/magazine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/bin/Debug/net8.0/magazine.exe" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/bin/Debug/net8.0/magazine.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/bin/Debug/net8.0/magazine.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/bin/Debug/net8.0/magazine.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/Avalonia/original.dll" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/Avalonia/original.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/Avalonia/original.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/Avalonia/original.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/Avalonia/original.ref.dll" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/Avalonia/original.ref.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/Avalonia/resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/magazine.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/magazine.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/magazine.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/magazine.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/magazine.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/magazine.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/magazine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/magazine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/magazine.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/magazine.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/ref/magazine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/ref/magazine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/refint/magazine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/magazine/obj/Debug/net8.0/refint/magazine.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2edM8NL4PxQizORk3QyDZEoxmt9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,6 +53,7 @@
     &quot;.NET Project.magazine.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -73,7 +100,8 @@
       <updated>1712229842948</updated>
       <workItem from="1712229844237" duration="5747000" />
       <workItem from="1712642891703" duration="4414000" />
-      <workItem from="1712832706293" duration="3690000" />
+      <workItem from="1712832706293" duration="5941000" />
+      <workItem from="1712905076241" duration="4907000" />
     </task>
     <servers />
   </component>

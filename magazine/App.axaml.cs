@@ -4,6 +4,7 @@ using Avalonia.Markup.Xaml;
 using magazine.ViewModels;
 using magazine.Views;
 
+
 namespace magazine;
 
 public partial class App : Application
@@ -17,10 +18,7 @@ public partial class App : Application
     {
         if (ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
         {
-            desktop.MainWindow = new MainWindow
-            {
-                DataContext = new MainWindowViewModel(),
-            };
+            desktop.MainWindow = new MainWindow(dataContext: new MainWindowViewModel());
         }
 
         base.OnFrameworkInitializationCompleted();

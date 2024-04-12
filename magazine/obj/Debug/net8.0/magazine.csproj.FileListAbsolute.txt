@@ -129,3 +129,4 @@ C:\Users\prdb\RiderProjects\magazine\magazine\obj\Debug\net8.0\magazine.pdb
 C:\Users\prdb\RiderProjects\magazine\magazine\obj\Debug\net8.0\magazine.csproj.Up2Date
 C:\Users\prdb\RiderProjects\magazine\magazine\obj\Debug\net8.0\magazine.genruntimeconfig.cache
 C:\Users\prdb\RiderProjects\magazine\magazine\obj\Debug\net8.0\ref\magazine.dll
+C:\Users\prdb\RiderProjects\magazine\magazine\obj\Debug\net8.0\magazine.sourcelink.json

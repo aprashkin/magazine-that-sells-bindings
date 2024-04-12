@@ -14,9 +14,16 @@ public class MainWindowViewModel : ViewModelBase
         set => this.RaiseAndSetIfChanged(ref _products, value);
     }
 
+    public ObservableCollection<Product> Cart
+    {
+        get => _products;
+        set => this.RaiseAndSetIfChanged(ref _products, value);
+    }
+
     public MainWindowViewModel()
     {
         Products = new() { new Product() { Name = "ASD", Price = 111, Quantity = 5 } };
+        
     }
     
 }
